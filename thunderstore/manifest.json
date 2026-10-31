@@ -1,0 +1,12 @@
+{
+  "name": "AmpedBatPlus",
+  "version_number": "0.0.0",
+  "website_url": "https://github.com/DooDesch-Mods/Mimesis-AmpedBatPlus",
+  "description": "Keep your Amped Bat unbreakable and tune its normal swing and Smash independently.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ],
+  "contributors": [
+    "DooDesch"
+  ]
+}
