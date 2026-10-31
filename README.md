@@ -4,6 +4,8 @@ Keep your Amped Bat unbreakable and tune its normal swing and Smash independentl
 
 > 🛟 **Need help or found a bug?** Get support at [support.doodesch.de/ampedbatplus](https://support.doodesch.de/ampedbatplus).
 
+![AmpedBatPlus in MIMESIS](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-AmpedBatPlus/main/docs/img/header.jpg)
+
 For MIMESIS and MelonLoader 0.7.3. A separate mod for the **Amped Bat** (item 1600). Install any combination of the six weapon mods. No MimicAPI or separate weapon-core DLL is required.
 
 ## Install
@@ -43,6 +45,12 @@ Optional tuning starts at **1.0 = native**. The primary unlimited mode is enable
 | `RangeMultiplier` | `1.0` | Attack reach multiplier, 0.25-4 |
 | `CooldownMultiplier` | `1.0` | Attack skill cooldown multiplier, 0.1-5; animation duration stays native |
 | `ShowInfinity` | `true` | Local HUD only: show infinity for unlimited ammunition, energy or protected bat durability |
+
+## In game
+
+![The native Amped Bat staged in the Maintenance area.](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-AmpedBatPlus/main/docs/img/in-game.jpg)
+
+The native Amped Bat staged in the Maintenance area.
 
 ## Build
 
