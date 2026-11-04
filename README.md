@@ -4,6 +4,8 @@ Keep your Amped Bat unbreakable and tune its normal swing and Smash independentl
 
 > 🛟 **Need help or found a bug?** Get support at [support.doodesch.de/ampedbatplus](https://support.doodesch.de/ampedbatplus).
 
+[![Discord](https://mods.doodesch.de/img/badge.svg)](https://mods.doodesch.de)
+
 ![AmpedBatPlus in MIMESIS](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-AmpedBatPlus/main/docs/img/header.jpg)
 
 For MIMESIS and MelonLoader 0.7.3. A separate mod for the **Amped Bat** (item 1600). Install any combination of the six weapon mods. No MimicAPI or separate weapon-core DLL is required.
@@ -55,3 +57,9 @@ The native Amped Bat staged in the Maintenance area.
 ## Build
 
 Build with .NET SDK 8 and the shared Mimesis workspace reference set. The project uses the same shared build, deployment guards and host-settings source as the other Mimesis mods. Shared helpers are compiled into this DLL.
+
+## Community
+
+[![DooDesch Mods on Discord](https://mods.doodesch.de/img/card.svg)](https://mods.doodesch.de)
+
+Join the DooDesch Mods Discord: update pings, polls on what comes next, and playtests of new mods.
